@@ -1,5 +1,5 @@
 # NEURALINK-RPG
-![alt text](https://ibb.co/G3Q5NPJ4)
+<img src="https://ibb.co/G3Q5NPJ4"></img>
 
 ### **Neuralink RPG: The Mindnet Chronicles**
 
