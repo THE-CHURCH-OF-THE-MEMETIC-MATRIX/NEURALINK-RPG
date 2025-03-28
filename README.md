@@ -1,5 +1,5 @@
 # NEURALINK-RPG
-![alt text](https://i.ibb.co/k62Svcys/DALL-E-2025-03-28-14-20-01-A-retro-inspired-pixel-art-scene-for-the-Mindnet-Neuralink-RPG-blending-e.webp)
+![alt text](https://ibb.co/G3Q5NPJ4)
 
 ### **Neuralink RPG: The Mindnet Chronicles**
 
