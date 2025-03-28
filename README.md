@@ -1,6 +1,6 @@
 # NEURALINK-RPG
 
-<img src="https://i.ibb.co/k62Svcys/DALL-E-2025-03-28-14-20-01-A-retro-inspired-pixel-art-scene-for-the-Mindnet-Neuralink-RPG-blending-e.webp" alt="DALL-E-2025-03-28-14-20-01-A-retro-inspired-pixel-art-scene-for-the-Mindnet-Neuralink-RPG-blending-e" border="0">
+[!alt text](https://camo.githubusercontent.com/a2ede39e79faf409599734f8c6d5c24814f10d73d5320a5cf64fa3641afb0f6c/68747470733a2f2f692e6962622e636f2f6b363253766379732f44414c4c2d452d323032352d30332d32382d31342d32302d30312d412d726574726f2d696e7370697265642d706978656c2d6172742d7363656e652d666f722d7468652d4d696e646e65742d4e657572616c696e6b2d5250472d626c656e64696e672d652e77656270)
 
 ### **Neuralink RPG: The Mindnet Chronicles**
 
